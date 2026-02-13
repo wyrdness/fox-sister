@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/fox-sister",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "fox-sister",
+    "name": "Fox Sister (여우 누이/狐姐)",
+    "aliases": [],
+    "category": "SHAPESHIFTER",
+    "subcategory": "Unknown",
+    "tags": [
+      "and-interpretation"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Fox Sister (여우 누이, yeowoо nui; or 狐姐 in Hanja) represents a uniquely Korean supernatural entity within the broader East Asian tradition of fox spirits.",
+      "full": "The Fox Sister (여우 누이, yeowoо nui; or 狐姐 in Hanja) represents a uniquely Korean supernatural entity within the broader East Asian tradition of fox spirits. While sharing some characteristics with the Chinese huli jing (狐狸精) and Japanese kitsune (狐), the Korean fox sister possesses distinct features that reflect Korean cultural values, fears, and social dynamics. Unlike its often ambiguous or even benevolent counterparts in neighboring cultures, the Korean fox sister typically appears as a malevolent shapeshifter who targets human families, particularly through deception and predation. The fox sister legend centers on a fox spirit (usually achieving transformation after living 1,000 years) that takes the form of a beautiful young woman to infiltrate human society. Most characteristically, the fox sister poses as a family member—often a long-lost or newly-discovered sister—to gain access to victims. Once integrated into a household, she feeds on human vitality, typically targeting young men or draining entire families of their life force. The legend serves as both cautionary tale and cultural narrative about trust, family bonds, deception, and the dangers lurking beneath attractive surfaces. The fox sister differs significantly from the Japanese kitsune, which can be benevolent messengers of the deity Inari, or the Chinese huli jing, which sometimes becomes a devoted lover or wife. Korean fox spirits, particularly in their \\\"sister\\\" manifestation, are consistently portrayed as dangerous predators. This reflects distinct Korean cultural anxieties about family integrity, proper social relationships, and the vulnerability of domestic spaces to external threats. In Korean folklore, the fox sister often appears during liminal times—late at night, during storms, or at transitional moments in family life. She exploits human compassion, hospitality, and familial obligation to gain entry into homes. Once inside, she systematically drains the life force (기, gi, equivalent to Chinese qi) from her victims, leaving them weak, ill, and eventually dead. The legend emphasizes the importance of vigilance, proper verification of relationships, and wariness toward strangers claiming familial connections."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "SHAPESHIFTER",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
+}
