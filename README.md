@@ -1,862 +1,170 @@
-# Fox Sister (여우 누이/狐姐)
+# Fox Sister (여우 누이)
 
-## Version Information
-- **Version:** 1.0.0
-- **Last Updated:** 2026-01-14
-- **Classification:** SHAPESHIFTER
-- **Cultural Origin:** Korean folklore and mythology
+> The Fox Sister is a figure of Korean folklore in which a kumiho (nine-tailed fox spirit) takes the form of a young girl and infiltrates a family as their long-lost daughter, secretly devouring livestock and family members until exposed by an older brother.
 
-## Overview
-
-The Fox Sister (여우 누이, yeowoо nui; or 狐姐 in Hanja) represents a uniquely Korean supernatural entity within the broader East Asian tradition of fox spirits. While sharing some characteristics with the Chinese huli jing (狐狸精) and Japanese kitsune (狐), the Korean fox sister possesses distinct features that reflect Korean cultural values, fears, and social dynamics. Unlike its often ambiguous or even benevolent counterparts in neighboring cultures, the Korean fox sister typically appears as a malevolent shapeshifter who targets human families, particularly through deception and predation.
-
-The fox sister legend centers on a fox spirit (usually achieving transformation after living 1,000 years) that takes the form of a beautiful young woman to infiltrate human society. Most characteristically, the fox sister poses as a family member—often a long-lost or newly-discovered sister—to gain access to victims. Once integrated into a household, she feeds on human vitality, typically targeting young men or draining entire families of their life force. The legend serves as both cautionary tale and cultural narrative about trust, family bonds, deception, and the dangers lurking beneath attractive surfaces.
-
-The fox sister differs significantly from the Japanese kitsune, which can be benevolent messengers of the deity Inari, or the Chinese huli jing, which sometimes becomes a devoted lover or wife. Korean fox spirits, particularly in their "sister" manifestation, are consistently portrayed as dangerous predators. This reflects distinct Korean cultural anxieties about family integrity, proper social relationships, and the vulnerability of domestic spaces to external threats.
-
-In Korean folklore, the fox sister often appears during liminal times—late at night, during storms, or at transitional moments in family life. She exploits human compassion, hospitality, and familial obligation to gain entry into homes. Once inside, she systematically drains the life force (기, gi, equivalent to Chinese qi) from her victims, leaving them weak, ill, and eventually dead. The legend emphasizes the importance of vigilance, proper verification of relationships, and wariness toward strangers claiming familial connections.
-
-## Etymology and Cultural Context
-
-### Korean Terminology
-
-**여우 (Yeowoo) - Fox:**
-The basic Korean word for fox, derived from native Korean rather than Chinese characters. The term carries supernatural connotations beyond merely the animal:
-- Represents cunning and deception in Korean idiom
-- Associated with transformation and trickery
-- Used metaphorically for seductive or manipulative women
-- Embedded in various Korean expressions warning against deception
-
-**구미호 (Gumiho) - Nine-Tailed Fox:**
-The more general term for fox spirits in Korean folklore:
-- 구 (gu) = nine
-- 미 (mi) = tail  
-- 호 (ho) = fox
-- Equivalent to Chinese jiuweihu (九尾狐) and Japanese kyūbi no kitsune (九尾の狐)
-- Represents the most powerful and dangerous fox spirits
-- Requires 1,000 years of cultivation to achieve nine tails
-
-**여우 누이 (Yeowoo Nui) - Fox Sister:**
-The specific "sister" manifestation:
-- 누이 (nui) = older or younger sister
-- Emphasizes the familial deception aspect
-- Specifically refers to fox spirits pretending to be human sisters
-- Highlights the domestic invasion nature of the threat
-
-**Related Korean Terms:**
-
-**호녀 (Honyeo) 狐女 - Fox Woman:**
-- More formal term using Chinese characters
-- 호 (ho) = fox
-- 녀 (nyeo) = woman
-- General term for female fox spirits
-
-**변신 (Byeonsin) 變身 - Transformation:**
-- Shapeshifting ability central to fox spirit power
-- Essential characteristic of fox sisters
-- Broader term for supernatural transformation
-
-### Cultural Significance of Sisterhood
-
-The "sister" aspect of fox sister legends reflects important Korean cultural values:
-
-**Family Structure:**
-Traditional Korean society placed enormous importance on family relationships:
-- Confucian emphasis on filial piety and family harmony
-- Extended family living arrangements
-- Complex kinship terminology reflecting relationship specificity
-- Strong obligations to family members
-
-**Sister Relationships:**
-The sister bond held particular cultural significance:
-- Older sisters (언니, eonni) held authority over younger siblings
-- Younger sisters (여동생, yeodongsaeng) received protection and care
-- Sister relationships involved lifelong mutual obligation
-- Discovery of lost sisters was celebrated occasion
-
-**The Sister Disguise:**
-The fox spirit's choice to impersonate a sister exploits:
-- Automatic family acceptance and trust
-- Obligation to welcome family members
-- Difficulty of rejecting someone claiming sisterhood
-- Access to intimate family spaces and relationships
-- Emotional manipulation through familial bonds
-
-## Physical Description and Characteristics
-
-### Human Form
-
-When appearing as the "fox sister," these spirits typically manifest with specific characteristics designed to deceive while maintaining supernatural allure:
-
-**Idealized Beauty:**
-The fox sister appears as an exceptionally beautiful young woman:
-- Flawless pale skin, highly valued in traditional Korean aesthetics
-- Delicate, refined features
-- Long, flowing black hair
-- Graceful movements and carriage
-- Dressed in traditional Korean hanbok, often in white or pale colors
-- Youthful appearance, typically late teens to early twenties
-
-**Subtle Anomalies:**
-Despite seeming perfection, careful observers may notice irregularities:
-- Eyes that reflect light strangely, sometimes with amber or golden tints
-- Unusual grace that seems almost non-human
-- Movements too fluid or silent
-- Feet that don't quite touch the ground
-- Shadow that doesn't match human form exactly
-- Cold body temperature despite appearance of life
-- Absence of human scent; sometimes animal or wild odor
-- Incomplete understanding of human customs and speech patterns
-
-**Behavioral Markers:**
-The fox sister's behavior may reveal non-human nature:
-- Preference for raw or bloody meat
-- Active primarily at night
-- Aversion to dogs, who can sense supernatural nature
-- Unusual fascination with mirrors
-- Cannot properly perform certain Buddhist rituals
-- Uncomfortable around certain protective amulets or symbols
-- May avoid temples or sacred spaces
-
-### Fox Form
-
-In natural or revealed state, the fox sister appears as a supernatural fox:
-
-**Nine-Tailed Fox (Gumiho):**
-The most powerful manifestation:
-- Nine flowing tails that move independently
-- Larger than natural foxes
-- Fur that glows or shimmers with supernatural light
-- Eyes that gleam with intelligence and malevolence
-- Often depicted as white, red, or golden in color
-- Emits supernatural aura or fire
-
-**Lesser Fox Spirits:**
-Not all fox sisters achieve nine tails:
-- Single to eight tails depending on age and power
-- Still larger and more magnificent than ordinary foxes
-- Supernatural appearance distinguishing from natural animals
-- Progressive tail development over centuries
-
-**Transitional Forms:**
-During transformation, partial forms may appear:
-- Human body with fox features (ears, tail, fangs)
-- Fox head on human body
-- Multiple tails visible while otherwise appearing human
-- Flickering between forms
-- Reveals true nature under stress or strong emotion
-
-### Size and Presence
-
-**Human Form:**
-- Typically petite to average height for Korean women
-- Delicate build emphasizing femininity
-- Appears physically weak but possesses supernatural strength
-- Seemingly vulnerable to evoke protective instincts
-
-**Fox Form:**
-- Larger than natural foxes, sometimes the size of large dogs or wolves
-- Impressive and intimidating appearance
-- Multiple tails spread in display of power
-- Radiates supernatural presence
-
-## Powers and Abilities
-
-### Transformation (Byeonsin)
-
-The fox sister's primary and most dangerous ability:
-
-**Requirements for Human Transformation:**
-According to Korean folklore, fox spirits must meet certain conditions:
-- Live for 1,000 years (some versions say 100 or 500)
-- Consume specific numbers of human livers or hearts
-- Absorb sufficient human essence or life force
-- Study human behavior and society
-- May require consuming a magical foxbead (여우구슬, yeowoo guseul)
-
-**Transformation Process:**
-- Usually occurs under moonlight, especially full moon
-- May involve ritual or meditation
-- Painful process in some accounts
-- Not permanent; must maintain through continued feeding
-- Can be disrupted by certain conditions or objects
-
-**Limitations:**
-- Cannot perfectly replicate specific known individuals (usually)
-- May retain subtle fox characteristics
-- Transformation weakens during day
-- Strong emotions can cause partial reversion
-- Certain substances or rituals force true form revelation
-
-### Life Force Draining
-
-The fox sister's primary method of sustenance:
-
-**Mechanisms:**
-Different accounts describe various methods:
-- Stealing life force (기, gi/qi) through proximity or touch
-- Consuming human organs, especially liver (간, gan)
-- Draining essence through intimate contact
-- Feeding on breath while victims sleep
-- Absorbing vitality through prolonged association
-
-**Effects on Victims:**
-Progressive deterioration:
-- Initial symptoms: fatigue, weakness, paleness
-- Progressive: weight loss, illness, confusion
-- Advanced: wasting disease, inability to eat, mental decline
-- Terminal: death appearing as natural consumption or illness
-
-**Preference for Young Men:**
-Many tales emphasize targeting of young male victims:
-- Prime life force considered most nourishing
-- Sexual attraction used as lure
-- Romantic relationship provides cover and access
-- Young men's vigor provides maximum sustenance
-- Multiple cultural meanings related to gender dynamics
-
-### Supernatural Speed and Agility
-
-Fox spirits possess enhanced physical capabilities:
-- Move with impossible grace and silence
-- Run at supernatural speeds
-- Leap great heights and distances
-- Climb walls and trees effortlessly
-- React with inhuman reflexes
-
-### Illusion and Manipulation
-
-Beyond physical transformation:
-- Create illusions affecting human perception
-- Manipulate emotions and thoughts
-- Induce dreams or visions
-- Cast glamours making others see what she wishes
-- Mental influence and suggestion
-
-### The Fox Bead (여우구슬, Yeowoo Guseul)
-
-A magical pearl or bead associated with fox spirits:
-
-**Nature and Power:**
-- Crystallized essence of fox spirit's power
-- Glowing spherical object
-- Contains accumulated life force and magic
-- May be coughed up or carried within fox
-- Source of transformation and power
-
-**Uses:**
-- Enables human transformation when swallowed
-- Grants wishes or powers if obtained by human
-- Can be used to heal or harm
-- Stores absorbed life energy
-- Essential to fox spirit's supernatural abilities
-
-**Vulnerability:**
-- Loss of bead weakens fox spirit significantly
-- May be stolen during transformation
-- Sometimes offered in exchange for favors
-- Recovery requires desperate measures
-- Destruction can kill the fox spirit
-
-### Combat Abilities
-
-When revealed or cornered:
-- Supernatural strength despite delicate appearance
-- Sharp claws and fangs
-- Fire manipulation in some accounts
-- Hypnotic gaze
-- Ability to summon other fox spirits
-- Magic attacks using accumulated power
-
-## Behavioral Patterns and Tactics
-
-### Infiltration Strategy
-
-The fox sister employs sophisticated methods to enter human families:
-
-**Common Scenarios:**
-
-**1. The Lost Sister:**
-Most classic approach:
-- Appears claiming to be long-lost sibling
-- Explains absence through tragic story (kidnapping, war separation, etc.)
-- Knows enough family details to seem credible
-- Exploits family's desire to reunite
-- Uses emotional manipulation to overcome skepticism
-
-**2. The Traveling Sister:**
-- Claims to be distant relative's daughter
-- Carries letter or token of introduction
-- Asks for temporary shelter
-- Gradually extends stay
-- Becomes indispensable to family
-
-**3. The Rescued Woman:**
-- Appears in distress (fleeing danger, injured, abandoned)
-- Adopted into family out of compassion
-- Treated as sister by family's daughters
-- Protected by family honor and obligation
-- Uses gratitude to maintain position
-
-**4. The Arranged Connection:**
-- Arrives as part of marriage negotiation
-- Sister to potential bride or groom
-- Built-in reason for family integration
-- Access to young men through matchmaking context
-
-### Feeding Patterns
-
-Once established in household:
-
-**Gradual Approach:**
-- Initially feeds sparingly to avoid detection
-- Increases consumption as victims weaken
-- May rotate between multiple victims
-- Balances feeding with maintaining cover
-- Adjusts based on family suspicion level
-
-**Nocturnal Activity:**
-- Primary feeding occurs at night
-- Enters victims' rooms while sleeping
-- Uses supernatural abilities to remain undetected
-- May appear in dreams to victims
-- Returns to own room before dawn
-
-**Selection of Victims:**
-- Prioritizes young, healthy family members
-- Often singles out young men first
-- May target those who trust her most
-- Avoids those who show suspicion
-- Sometimes eliminates those who discover her nature
-
-### Deception Maintenance
-
-Sustaining the imposture requires constant performance:
-
-**Learning Human Behavior:**
-- Observes family customs and habits
-- Mimics appropriate emotional responses
-- Studies human speech and mannerisms
-- Adapts to family's specific dynamics
-- Maintains consistent backstory
-
-**Building Relationships:**
-- Forms bonds with family members
-- Participates in family activities
-- Offers help with household tasks
-- Creates dependencies on her presence
-- Isolates potential threats through manipulation
-
-**Deflecting Suspicion:**
-- Provides plausible explanations for oddities
-- Attributes victims' decline to natural illness
-- Suggests external causes for problems
-- May accuse suspicious family members of jealousy
-- Uses charm and beauty to maintain support
-
-## Detection and Warning Signs
-
-Korean folklore emphasizes vigilance in recognizing fox sisters:
-
-### Physical Detection Methods
-
-**Mirror Test:**
-- Fox spirits cannot appear correctly in mirrors
-- May show fox form, no reflection, or distorted image
-- Traditional bronze mirrors especially effective
-- Multiple mirrors reveal inconsistencies
-
-**Shadow Observation:**
-- Shadow may show fox form or tail
-- May not match human body position
-- Sometimes absent entirely
-- Visible in moonlight particularly
-
-**Dog Reaction:**
-- Dogs instinctively recognize supernatural nature
-- Bark, growl, or cower in fear
-- Refuse to enter fox sister's presence
-- May attempt to attack or drive away
-- Traditional belief that dogs see true spiritual nature
-
-**Water Reflection:**
-- Still water may reveal true form
-- Similar to mirror but uses natural element
-- Fox spirit may avoid looking into water
-- Reflection may flicker or shift
-
-**Touch and Temperature:**
-- Unnaturally cold skin despite warm environment
-- Lack of normal human warmth
-- Pulse may be absent or irregular
-- Skin texture may seem strange
-
-### Behavioral Warning Signs
-
-**Nocturnal Activity:**
-- Excessive activity at night
-- Roaming house when others sleep
-- Disappears during nighttime hours
-- Aversion to early morning activities
-- Sleeps during day
-
-**Dietary Peculiarities:**
-- Preference for raw or bloody meat
-- Eats very little in front of others
-- Cannot stomach certain traditional foods
-- Strange eating habits or times
-- May be caught eating unusual substances
-
-**Gaps in Knowledge:**
-- Despite claimed family connection, lacks specific memories
-- Cannot answer detailed questions about past
-- Mistakes in family stories or relationships
-- Unfamiliarity with family traditions
-- Knowledge seems learned rather than lived
-
-**Relationship with Sacred Objects:**
-- Discomfort around Buddhist imagery
-- Avoids temples or shrines
-- Cannot participate in certain rituals properly
-- Aversion to protective amulets
-- May be burned or harmed by blessed objects
-
-**Effect on Household:**
-- Progressive illness in family members
-- Unexplained deaths of pets (especially dogs)
-- Sense of unease or oppression in home
-- Objects moved or disturbed at night
-- Strange sounds or phenomena
-
-## Cultural Origins and Development
-
-### Historical Context
-
-**Pre-Buddhist Period:**
-- Indigenous Korean animal spirit beliefs
-- Shamanic traditions of transformation
-- Nature spirit worship
-- Animal totems and supernatural beasts
-
-**Buddhist Influence:**
-Arrival of Buddhism brought new frameworks:
-- Concepts of karma and rebirth
-- Animal spirits seeking human form as spiritual advancement
-- Moral dimensions to supernatural beings
-- Techniques for spiritual protection
-
-**Confucian Period:**
-Confucian social order shaped the legend:
-- Emphasis on proper family relationships
-- Anxiety about social deception
-- Importance of maintaining household harmony
-- Gender roles and dynamics reflected in tales
-
-**Joseon Dynasty (1392-1897):**
-Peak period for fox sister legends:
-- Flourishing of Korean literary culture
-- Collection and standardization of folktales
-- Integration with Korean literary traditions
-- Reflection of social anxieties of the era
-
-### Social and Psychological Functions
-
-**Family Protection:**
-The legend serves to:
-- Warn against trusting strangers claiming family ties
-- Emphasize proper verification of relationships
-- Protect household boundaries
-- Maintain vigilance about who enters domestic space
-
-**Gender Dynamics:**
-The fox sister reflects complex attitudes about women:
-- Anxiety about female sexuality and power
-- Fear of seductive women as dangerous
-- Emphasis on modest, known women as safe
-- Beautiful strangers as threatening
-- Control of women's movement and relationships
-
-**Moral Instruction:**
-Tales teach important lessons:
-- Consequences of greed and gullibility
-- Importance of wisdom over beauty
-- Value of vigilance and skepticism
-- Proper family bonds versus false ones
-- Spiritual preparedness and protection
-
-**Class Anxiety:**
-Some versions reflect social concerns:
-- Fear of social climbing through deception
-- Anxiety about proper social station
-- Consequences of accepting outsiders into family
-- Protection of family status and lineage
-
-## Regional Variations and Related Legends
-
-### Korean Regional Differences
-
-**Southern Korea:**
-- More elaborate transformation stories
-- Greater emphasis on seduction elements
-- Integration with local shamanic traditions
-- Specific regional folktales
-
-**Northern Korea:**
-- Harsher, more violent fox spirits
-- Emphasis on physical danger
-- Connection to Manchurian fox legends
-- Different protective practices
-
-**Jeju Island:**
-- Unique island variations
-- Integration with indigenous Jeju beliefs
-- Different supernatural landscape
-- Specific local stories
-
-### Relation to Broader Gumiho Tradition
-
-The fox sister represents one manifestation of the broader gumiho (nine-tailed fox) tradition:
-
-**General Gumiho:**
-- Not always female or appearing as sister
-- Wider range of behaviors and motivations
-- Various origin stories
-- Different power levels and abilities
-
-**Other Manifestations:**
-- Fox wife (marries into family)
-- Fox courtesan (seduces men in entertainment districts)
-- Fox scholar (male fox spirit in human form)
-- Fox child (appears as orphan to be adopted)
-
-### Comparison with Chinese and Japanese Traditions
-
-**Chinese Huli Jing (狐狸精):**
-Similarities:
-- Nine-tailed fox achieving human form
-- Supernatural powers and transformation
-- Association with seduction
-
-Differences:
-- Chinese fox spirits more morally ambiguous
-- Can become devoted wives and lovers
-- Sometimes benevolent or helpful
-- More complex mythology and classifications
-- Possibility of achieving immortality and godhood
-
-**Japanese Kitsune (狐):**
-Similarities:
-- Fox transformation and supernatural powers
-- Can be dangerous to humans
-- Associated with seduction and trickery
-
-Differences:
-- Kitsune can be messengers of Inari deity (benevolent)
-- More likely to keep promises and repay debts
-- More emphasis on magical rather than predatory nature
-- Complex moral spectrum from malevolent to protective
-- Different cultural role and significance
-
-**Korean Fox Sister Distinctiveness:**
-- Consistently malevolent in traditional tales
-- Specific family infiltration focus
-- Predatory feeding on life force
-- Emphasis on deception through family relationships
-- Less moral ambiguity than Chinese/Japanese counterparts
-- Uniquely Korean cultural anxieties reflected
-
-## Protection and Countermeasures
-
-### Preventive Protection
-
-**Household Protection:**
-
-**Physical Barriers:**
-- Dogs as guardians (most reliable)
-- Mirrors strategically placed
-- Buddhist images and sutras
-- Protective amulets at entrances
-- Iron objects as barriers
-- Salt lines at thresholds
-
-**Ritual Protection:**
-- Buddhist blessings for home
-- Shamanic rituals (굿, gut)
-- Protective talismans from monks or shamans
-- Proper ancestral rites maintaining spiritual protection
-- Regular spiritual cleansing
-
-**Behavioral Precautions:**
-- Verify claimed relationships thoroughly
-- Never admit strangers claiming family ties without proof
-- Check references through multiple sources
-- Trust dogs' reactions to strangers
-- Maintain proper spiritual practices
-
-### Detection and Testing
-
-**Traditional Tests:**
-
-**Mirror Test:**
-- Present multiple mirrors to suspected fox sister
-- Observe reflection for discrepancies
-- Bronze mirrors considered most effective
-- May reveal fox form or absence
-
-**Dog Exposure:**
-- Introduce dogs to suspected individual
-- Observe animal's reaction
-- Dogs may bark, attack, or show fear
-- Most reliable traditional method
-
-**Water Test:**
-- Observe reflection in still water
-- May reveal true form
-- Fox spirits avoid this test
-
-**Food Test:**
-- Offer foods fox spirits cannot eat
-- Observe reactions and preferences
-- Note unusual dietary habits
-
-**Physical Tests:**
-- Check body temperature
-- Examine shadow carefully
-- Test reaction to blessed objects
-- Observe during daylight hours
-
-### Removal and Exorcism
-
-**Buddhist Methods:**
-- Monk-performed exorcism rituals
-- Sutra recitation (especially Diamond Sutra)
-- Blessed water application
-- Use of sacred implements
-- Dedication of merit for spirit's liberation
-
-**Shamanic Methods:**
-- Mudang (무당, female shaman) performed gut rituals
-- Spirit negotiation or combat
-- Ritual dances and chants
-- Use of sacred knives and bells
-- Offerings to higher spirits for assistance
-
-**Folk Methods:**
-- Collective family confrontation
-- Exposure to sunlight
-- Circle of fire or iron
-- Recovery and destruction of fox bead
-- Physical attack with blessed weapons
-
-**Modern Adaptations:**
-- Psychological counseling for affected families
-- Community support systems
-- Reinterpretation as mental health issue
-- Cultural performance of protective rituals
-
-## Literary and Media Representations
-
-### Classical Korean Literature
-
-**Geumosinhwa (금오신화 / 金鰲新話):**
-15th century collection by Kim Sisŭp:
-- Early literary treatment of fox spirits
-- Influenced later fox sister tales
-- Set literary standards
-
-**Joseon Period Collections:**
-- Various oral tradition compilations
-- Scholar recordings of folk tales
-- Integration into Korean literary canon
-- Standardization of story elements
-
-**Folk Tale Collections:**
-- Oral traditions preserved in written form
-- Regional variation documentation
-- Academic collections and studies
-- Contemporary anthologies
-
-### Modern Korean Literature
-
-**20th Century:**
-- Literary reinterpretations
-- Psychological and symbolic readings
-- Feminist reexaminations
-- Modern urban settings
-
-**Contemporary Fiction:**
-- Young adult fantasy featuring gumiho
-- Romance novels with fox spirit characters
-- Horror fiction using traditional elements
-- Literary fiction exploring themes symbolically
-
-### Film and Television
-
-**Classic Films:**
-- Early Korean cinema horror films
-- Folk tale adaptations
-- Atmospheric supernatural thrillers
-
-**Contemporary Films:**
-- "My Girlfriend is a Nine-Tailed Fox" (2010 drama, romantic)
-- Various horror and thriller productions
-- Modern reinterpretations
-- International co-productions
-
-**Television Dramas:**
-- "My Girlfriend is a Gumiho" (2010) - romantic comedy
-- "Gu Family Book" (2013) - historical fantasy
-- "Tale of the Nine Tailed" (2020) - modern fantasy
-- "The Thousandth Man" (2012) - romantic supernatural
-
-These modern adaptations often transform the traditionally malevolent fox sister into:
-- Sympathetic protagonist seeking humanity
-- Romantic interest for human male lead
-- Protective rather than predatory
-- Complex character with moral struggles
-- Reflection of changing social attitudes
-
-### Webtoons and Comics
-
-- Popular medium for fox spirit stories
-- Visual medium suits transformation themes
-- Youth-oriented reinterpretations
-- International distribution
-- Blend of traditional and modern elements
-
-### Video Games
-
-- Korean RPGs featuring gumiho characters
-- Mobile games with fox spirit themes
-- Integration into fantasy game worlds
-- Boss characters or playable characters
-- Cultural education through gaming
-
-## Symbolism and Interpretation
-
-### Traditional Meanings
-
-**Family and Trust:**
-- Importance of authentic family bonds
-- Danger of false relationships
-- Value of verification and wisdom
-- Protection of domestic sphere
-
-**Female Power and Danger:**
-- Anxiety about female sexuality
-- Beautiful women as potential threats
-- Control of female behavior
-- Patriarchal concerns reflected
-
-**Deception and Truth:**
-- Appearance versus reality
-- Importance of seeing truly
-- Wisdom over surface attraction
-- Spiritual insight penetrating illusion
-
-**Life Force and Vitality:**
-- Vulnerability of human essence
-- Protection of gi/qi
-- Spiritual and physical health connection
-- Consequences of exploitation
-
-### Modern Interpretations
-
-**Feminist Readings:**
-- Fox sister as female attempting autonomy
-- Patriarchal society's fear of powerful women
-- Survival strategies in restrictive society
-- Reclaiming the fox sister as protagonist
-
-**Psychological Symbolism:**
-- Shadow self and hidden aspects
-- Projection of fears onto feminine
-- Family dynamics and dysfunction
-- Trust issues and boundaries
-
-**Social Commentary:**
-- Class mobility and social climbing
-- Outsiders in Korean society
-- Protection of status and lineage
-- Contemporary relevance to social issues
-
-**Ecological Perspective:**
-- Human-nature relationship
-- Wild versus domestic
-- Environmental destruction forcing spirits to human world
-- Need for balance between worlds
-
-## Contemporary Relevance
-
-### Cultural Heritage
-
-**Preservation Efforts:**
-- Academic research and documentation
-- Cultural education programs
-- Museum exhibitions
-- Performance arts maintaining traditions
-- Government support for folk culture
-
-**Tourism:**
-- Fox sister themed locations
-- Cultural experience programs
-- Festival celebrations
-- Heritage site preservation
-
-### Popular Culture Impact
-
-**Korean Wave (Hallyu):**
-- International exposure through K-dramas
-- Global interest in Korean folklore
-- Cultural export and soft power
-- Reinterpretations for global audiences
-
-**Fashion and Aesthetics:**
-- Fox spirit inspired fashion
-- Beauty trends ("fox-like" features)
-- Aesthetic movements
-- Commercial applications
-
-**Entertainment Industry:**
-- Continued production of fox spirit content
-- Adaptation to various media
-- Crossover with other genres
-- International collaborations
-
-### Social Discourse
-
-**Gender Relations:**
-- Discussions of female representation
-- Changing attitudes toward powerful women
-- Reexamination of traditional narratives
-- Feminist reclamation of fox spirit
-
-**Identity and Belonging:**
-- Themes of insider/outsider
-- Authenticity and performance
-- Cultural identity in global age
-- Korean identity and folklore
-
-**Tradition and Modernity:**
-- Balance between old and new
-- Adaptation of traditional beliefs
-- Young generation engagement
-- Cultural continuity concerns
-
-## Conclusion
-
-The fox sister legend represents a uniquely Korean contribution to the broader East Asian fox spirit tradition. Distinguished from Chinese and Japanese counterparts by its consistent malevolence and specific focus on family infiltration and deception, the fox sister embodies distinctly Korean cultural anxieties about trust, family authenticity, domestic security, and the dangers of seductive appearances.
-
-Rooted in ancient Korean beliefs about animal spirits and transformation, shaped by centuries of Buddhist and Confucian influence, and refined through the literary and oral traditions of the Joseon period, the fox sister legend has demonstrated remarkable cultural persistence. From classical literature to contemporary K-dramas, from folk warnings to feminist reinterpretations, the fox sister continues to evolve while maintaining core symbolic meanings.
-
-The legend's endurance reflects its psychological resonance and social utility. At its heart, the fox sister story addresses universal human concerns—the difficulty of distinguishing truth from deception, the vulnerability of trust, the dangers lurking beneath beauty, and the protection of family and self from exploitation. These themes remain relevant across centuries and cultural contexts.
-
-Contemporary reinterpretations, particularly in popular media, have transformed the traditionally villainous fox sister into more sympathetic and complex characters. This evolution reflects changing social attitudes toward female power, individual agency, and the blurring of traditional categorical boundaries. The fox sister as romantic protagonist rather than predatory monster represents significant cultural shift while maintaining connection to traditional folklore.
-
-As Korean culture continues to globalize through the Korean Wave, the fox sister legend finds new international audiences. Global viewers encounter Korean folklore through entertainment media, fostering cross-cultural understanding and appreciation. This international exposure ensures the fox sister's continued cultural vitality and relevance.
-
-Whether understood as literal supernatural threat, psychological metaphor, social commentary, or cultural heritage, the fox sister remains a powerful and multifaceted symbol in Korean culture. The beautiful woman with the fox spirit inside continues to captivate imagination, warn against deception, and embody the eternal tension between appearance and reality, trust and suspicion, human and other.
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
+## Quick Reference
 
-*For detailed source citations and references, please see SOURCES.md*
+| Property | Value |
+|---|---|
+| **ID** | `fox-sister` |
+| **Category** | SHAPESHIFTER |
+| **Subcategory** | Fox spirit / nine-tailed fox tradition |
+| **First recorded** | 1200-01-01 |
+| **Primary range** | Korean folktale tradition (Korean peninsula and the wider Korean diaspora) |
+| **Status** | documented |
+
+---
+## Overview
+
+The Fox Sister (여우 누이, yeowoo nui) is the title and central figure of one of the most widely circulated Korean folktales of the kumiho (구미호; Hanja 九尾狐, 'nine-tailed fox') tradition. In the canonical tale, recorded in late-19th and early-20th-century Korean folktale collections, an aging couple desperate for a daughter prays to the mountain spirit and is granted one — in fact, a kumiho in human form. The girl appears as a beautiful younger sister to the family's existing sons. After her arrival the family's livestock begin to die, one each night, with their livers torn out. The eldest sons are sent in turn to keep watch, fail (or are themselves killed), and only the youngest son (or, in some versions, an exiled elder brother) discovers the truth. Returning home with three magical bottles or talismans (often blue, red and white) given to him by a Buddhist monk or Daoist sage, he confronts his transformed 'sister' and destroys her. The Fox Sister fits within the wider East Asian fox-spirit complex (Chinese huli jing 狐狸精, Japanese kitsune 狐) but is distinctive in its Korean variant for the family-infiltration motif and the consistently malevolent characterisation of the kumiho. The term kumiho first appears in Korean writing in the poetry of Yi Kyubo (1168–1241) of the Goryeo dynasty; the medical compendium Donguibogam (compiled by Heo Jun, 1610) records a treatment for ailments attributed to the nine-tailed fox. The tale itself was widely collected during the Joseon and modern periods and provides the foundation for the post-1979 kumiho horror tradition in Korean television (notably KBS's Hometown of Legends / Jeonseol-ui Gohyang).
+
+---
+## Names & Aliases
+
+| Name | Origin | Meaning |
+|---|---|---|
+| 여우 누이 | Korean / Korea | Fox Sister (folktale title) |
+| Yeowoo Nui | Korean (revised romanization) / Korea |  |
+| Kumiho / Gumiho (구미호) | Korean / Korea | Nine-tailed fox |
+| 九尾狐 | Hanja (Sino-Korean) / Korea | Nine-tailed fox |
+
+## Etymology
+
+- **Origin**: Korean kumiho / gumiho (구미호) is a Sino-Korean compound from Hanja 九尾狐 (nine-tailed fox), parallel to Chinese jiuweihu and Japanese kyūbi no kitsune. 'Yeowoo nui' (여우 누이) is the native-Korean phrase 'fox sister' used as the folktale title.
+- **Meaning**: Literally 'nine-tailed fox' (kumiho) or 'fox elder/younger sister' (yeowoo nui).
+- **First use**: Term kumiho attested in Korean writing by Yi Kyubo (1168–1241); folktale 'Yeowoo Nui' widely collected in late-19th- and early-20th-century Korean folklore collections.
+
+---
+## Related Phenomena
+
+- [Huli jing (狐狸精)](../huli-jing/) — _counterpart_: Chinese fox spirit; sometimes benevolent or amorous, often ambiguous
+- [Kitsune (狐)](../kitsune/) — _counterpart_: Japanese fox spirit; can be benevolent (zenko) or malicious (yako)
+- [Hồ ly tinh](../ho-ly-tinh/) — _counterpart_: Vietnamese fox spirit, parallel to the Chinese huli jing
+- [Changeling traditions](../changeling/) — _similar_: European tradition of supernatural substitution within a family
+
+---
+## Physical Description
+
+- **Morphology**: A nine-tailed vulpine in true form, capable of indistinguishable human disguise. Folkloric depictions emphasise the impossibility of detecting a kumiho on sight.
+
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| Beautiful young woman or girl | Default human form, used to gain entry to a household as a 'sister' or daughter | always |
+| Nine tails (true form) | True form is a fox with nine tails; tails accumulate over centuries of cultivation | always |
+| White or red fur | Premodern Korean sources describe foxes as white-furred; folktale illustrations often depict red-furred kumiho | common |
+| Yeoji (여의주) / fox marble | Some kumiho carry a magical bead or 'fox marble' that is the source of their power; transferred between mouths during a kiss | common |
+
+## Reported Abilities
+
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Human transformation | Takes the form of a beautiful woman or girl, sometimes after living 1,000 years (some folktale versions) or via the fox marble | always | folklore |
+| Family infiltration | Inserts herself into a household as an apparent daughter/sister | always | folklore |
+| Liver-eating / vital-energy drain | Drains gi (기) or eats the liver of livestock and humans, a key motif in the Fox Sister tale | always | folklore |
+| Illusion and seduction | Can produce illusions, conceal her tails, and bewitch men into compliance | common | folklore |
+
+## Behavior
+
+- **Activity**: nocturnal
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: Mountain forests near villages, Domestic households (post-infiltration), Liminal spaces — graveyards, mountain shrines
+- **Diet**: In the Fox Sister tale specifically: livers of livestock and humans, eaten one per night.
+
+---
+## Distribution
+
+Korean folktale tradition (Korean peninsula and the wider Korean diaspora). The kumiho is part of the East Asian fox-spirit complex but the specific 'fox sister' motif is distinctively Korean.
+
+
+---
+## Historical Timeline
+
+| Date | Event | Significance |
+|---|---|---|
+| 1200-01-01 | Goryeo-era poet Yi Kyubo (1168–1241) uses the term kumiho in critical poetry comparing shamans to nine-tailed foxes | Earliest dateable Korean attestation of the term |
+| 1610-01-01 | Heo Jun publishes the Donguibogam (Treasured Mirror of Eastern Medicine), which lists Byeogsadan as a treatment for illnesses caused by nine-tailed fox spirits | Documented inclusion of kumiho-related ailments in formal Korean medicine |
+| 1900-01-01 | Joseon-era and early-modern folktale collections record multiple variants of 'Yeowoo Nui' (Fox Sister) | Standardisation of the family-infiltration narrative |
+| 1979-01-01 | Actress Han Hye-suk first portrays a kumiho in KBS's Hometown of Legends (Jeonseol-ui Gohyang) | Beginning of the modern televised kumiho tradition |
+| 2010-08-11 | MBC drama My Girlfriend is a Gumiho premieres | Major modern romantic-comedy reframing of the kumiho |
+| 2020-10-07 | tvN drama Tale of the Nine-Tailed (Gumiho-Jeon) premieres, with Lee Dong-wook in the lead role | Major contemporary fantasy reception of the kumiho mythology |
+
+## Evidence
+
+### Documentary
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Donguibogam (東醫寶鑑) | 1610 | Heo Jun's compendium of Korean medicine, including a treatment formula (Byeogsadan) for ailments attributed to nine-tailed fox spirits. | verified |
+| 'Yeowoo Nui' folktale corpus |  | Multiple recorded versions of the Fox Sister tale in Korean folktale anthologies of the 19th and 20th centuries. | verified |
+
+---
+## Theories & Explanations
+
+### Paranormal / Cryptozoological
+
+**Animistic / shamanic spirit** _(Korean shamanic (mu) tradition, Folkloric communities)_
+
+Within Korean folk and shamanic tradition the kumiho is a real spirit-being with the capacity to inhabit the human world and harm households.
+
+### Scientific
+
+**Cultural-anxiety encoding** _(Korean folkloristics, Dafna Zur (Stanford), Ji-Hyun Park (UCLA))_
+
+Folklorists read the Fox Sister as a cultural narrative encoding anxieties about family integrity, female sexuality, and the vulnerability of the domestic sphere to external threat under Confucian patriarchal social structures.
+
+
+## Popular Culture
+
+**Literature**: 'Yeowoo Nui' (Fox Sister) — multiple Korean folktale anthologies; Donguibogam — Heo Jun (1610); Jeon Woo-chi Jeon (전우치전) — anonymous, Joseon-era novel
+
+**Film / TV**: Hometown of Legends (전설의 고향, KBS, 1977–1989; 2008–2009); The Fox with Nine Tails (구미호, 1994); My Girlfriend is a Gumiho (내 여자친구는 구미호, MBC, 2010); Gu Family Book (구가의 서, MBC, 2013); Tale of the Nine-Tailed (구미호뎐, tvN, 2020); Tale of the Nine-Tailed 1938 (tvN, 2023)
+
+**Games**: Smite — Da Ji and similar fox-spirit characters draw on the East Asian tradition; League of Legends — Ahri (kumiho-inspired champion, 2011); Tales of Symphonia and other JRPG fox-spirit references
+
+**Music**: Various K-pop and OST tracks tied to the 2020 Tale of the Nine-Tailed series
+
+**Other**: Saero soju branding featuring kumiho imagery (2022)
+
+---
+## Research
+
+### Researchers
+
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Heo Jun | Royal Physician, Joseon Korea | Donguibogam (1610), institutional documentation of kumiho-related ailments | 16th–17th c. |
+| Dafna Zur | Stanford University (Korean literature) | Scholarship on Korean folklore and children's literature including kumiho material | 2000s–present |
+| Korea Foundation | Korea Foundation cultural research | Curation and translation of Korean folklore including the Fox Sister tale | 1990s–present |
+
+### Organizations
+
+- [National Folk Museum of Korea](https://www.nfm.go.kr/english/index.do) — Curation of Korean folk traditions, including kumiho and 'Yeowoo Nui'
+- [Academy of Korean Studies](https://www.aks.ac.kr/) — Academic research on Korean folklore and literature
+
+Active areas include comparative East-Asian fox-spirit folkloristics, gender-studies analysis of the kumiho figure, and reception-history studies of the post-1979 televised kumiho tradition.
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
+## License
+
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
+
+---
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/fox-sister",
     "maintainers": [
       {
@@ -16,110 +16,250 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "fox-sister",
-    "name": "Fox Sister (여우 누이/狐姐)",
-    "aliases": [],
+    "name": "Fox Sister (여우 누이)",
+    "aliases": [
+      { "name": "여우 누이", "language": "Korean", "region": "Korea", "meaning": "Fox Sister (folktale title)" },
+      { "name": "Yeowoo Nui", "language": "Korean (revised romanization)", "region": "Korea" },
+      { "name": "Kumiho / Gumiho (구미호)", "language": "Korean", "region": "Korea", "meaning": "Nine-tailed fox" },
+      { "name": "九尾狐", "language": "Hanja (Sino-Korean)", "region": "Korea", "meaning": "Nine-tailed fox" }
+    ],
     "category": "SHAPESHIFTER",
-    "subcategory": "Unknown",
+    "subcategory": "Fox spirit / nine-tailed fox tradition",
     "tags": [
-      "and-interpretation"
+      "korean-folklore",
+      "fox-spirit",
+      "shapeshifter",
+      "kumiho",
+      "east-asian",
+      "vengeful-spirit",
+      "joseon"
     ],
     "status": "documented",
     "description": {
-      "summary": "The Fox Sister (여우 누이, yeowoо nui; or 狐姐 in Hanja) represents a uniquely Korean supernatural entity within the broader East Asian tradition of fox spirits.",
-      "full": "The Fox Sister (여우 누이, yeowoо nui; or 狐姐 in Hanja) represents a uniquely Korean supernatural entity within the broader East Asian tradition of fox spirits. While sharing some characteristics with the Chinese huli jing (狐狸精) and Japanese kitsune (狐), the Korean fox sister possesses distinct features that reflect Korean cultural values, fears, and social dynamics. Unlike its often ambiguous or even benevolent counterparts in neighboring cultures, the Korean fox sister typically appears as a malevolent shapeshifter who targets human families, particularly through deception and predation. The fox sister legend centers on a fox spirit (usually achieving transformation after living 1,000 years) that takes the form of a beautiful young woman to infiltrate human society. Most characteristically, the fox sister poses as a family member—often a long-lost or newly-discovered sister—to gain access to victims. Once integrated into a household, she feeds on human vitality, typically targeting young men or draining entire families of their life force. The legend serves as both cautionary tale and cultural narrative about trust, family bonds, deception, and the dangers lurking beneath attractive surfaces. The fox sister differs significantly from the Japanese kitsune, which can be benevolent messengers of the deity Inari, or the Chinese huli jing, which sometimes becomes a devoted lover or wife. Korean fox spirits, particularly in their \\\"sister\\\" manifestation, are consistently portrayed as dangerous predators. This reflects distinct Korean cultural anxieties about family integrity, proper social relationships, and the vulnerability of domestic spaces to external threats. In Korean folklore, the fox sister often appears during liminal times—late at night, during storms, or at transitional moments in family life. She exploits human compassion, hospitality, and familial obligation to gain entry into homes. Once inside, she systematically drains the life force (기, gi, equivalent to Chinese qi) from her victims, leaving them weak, ill, and eventually dead. The legend emphasizes the importance of vigilance, proper verification of relationships, and wariness toward strangers claiming familial connections."
+      "summary": "The Fox Sister is a figure of Korean folklore in which a kumiho (nine-tailed fox spirit) takes the form of a young girl and infiltrates a family as their long-lost daughter, secretly devouring livestock and family members until exposed by an older brother.",
+      "full": "The Fox Sister (여우 누이, yeowoo nui) is the title and central figure of one of the most widely circulated Korean folktales of the kumiho (구미호; Hanja 九尾狐, 'nine-tailed fox') tradition. In the canonical tale, recorded in late-19th and early-20th-century Korean folktale collections, an aging couple desperate for a daughter prays to the mountain spirit and is granted one — in fact, a kumiho in human form. The girl appears as a beautiful younger sister to the family's existing sons. After her arrival the family's livestock begin to die, one each night, with their livers torn out. The eldest sons are sent in turn to keep watch, fail (or are themselves killed), and only the youngest son (or, in some versions, an exiled elder brother) discovers the truth. Returning home with three magical bottles or talismans (often blue, red and white) given to him by a Buddhist monk or Daoist sage, he confronts his transformed 'sister' and destroys her. The Fox Sister fits within the wider East Asian fox-spirit complex (Chinese huli jing 狐狸精, Japanese kitsune 狐) but is distinctive in its Korean variant for the family-infiltration motif and the consistently malevolent characterisation of the kumiho. The term kumiho first appears in Korean writing in the poetry of Yi Kyubo (1168–1241) of the Goryeo dynasty; the medical compendium Donguibogam (compiled by Heo Jun, 1610) records a treatment for ailments attributed to the nine-tailed fox. The tale itself was widely collected during the Joseon and modern periods and provides the foundation for the post-1979 kumiho horror tradition in Korean television (notably KBS's Hometown of Legends / Jeonseol-ui Gohyang)."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Korean kumiho / gumiho (구미호) is a Sino-Korean compound from Hanja 九尾狐 (nine-tailed fox), parallel to Chinese jiuweihu and Japanese kyūbi no kitsune. 'Yeowoo nui' (여우 누이) is the native-Korean phrase 'fox sister' used as the folktale title.",
+      "meaning": "Literally 'nine-tailed fox' (kumiho) or 'fox elder/younger sister' (yeowoo nui).",
+      "first_use": "Term kumiho attested in Korean writing by Yi Kyubo (1168–1241); folktale 'Yeowoo Nui' widely collected in late-19th- and early-20th-century Korean folklore collections."
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "SHAPESHIFTER",
-      "type": "Unknown",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Fox spirit",
+      "subtype": "Nine-tailed fox / family-infiltrating shapeshifter",
+      "variant": "Korean (distinct from Chinese huli jing and Japanese kitsune)"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "huli-jing", "name": "Huli jing (狐狸精)", "relationship": "counterpart", "description": "Chinese fox spirit; sometimes benevolent or amorous, often ambiguous" },
+      { "id": "kitsune", "name": "Kitsune (狐)", "relationship": "counterpart", "description": "Japanese fox spirit; can be benevolent (zenko) or malicious (yako)" },
+      { "id": "ho-ly-tinh", "name": "Hồ ly tinh", "relationship": "counterpart", "description": "Vietnamese fox spirit, parallel to the Chinese huli jing" },
+      { "id": "changeling", "name": "Changeling traditions", "relationship": "similar", "description": "European tradition of supernatural substitution within a family" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "Beautiful young woman or girl", "description": "Default human form, used to gain entry to a household as a 'sister' or daughter", "frequency": "always" },
+        { "feature": "Nine tails (true form)", "description": "True form is a fox with nine tails; tails accumulate over centuries of cultivation", "frequency": "always" },
+        { "feature": "White or red fur", "description": "Premodern Korean sources describe foxes as white-furred; folktale illustrations often depict red-furred kumiho", "frequency": "common" },
+        { "feature": "Yeoji (여의주) / fox marble", "description": "Some kumiho carry a magical bead or 'fox marble' that is the source of their power; transferred between mouths during a kiss", "frequency": "common" }
+      ],
+      "morphology": "A nine-tailed vulpine in true form, capable of indistinguishable human disguise. Folkloric depictions emphasise the impossibility of detecting a kumiho on sight."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Human transformation", "description": "Takes the form of a beautiful woman or girl, sometimes after living 1,000 years (some folktale versions) or via the fox marble", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Family infiltration", "description": "Inserts herself into a household as an apparent daughter/sister", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Liver-eating / vital-energy drain", "description": "Drains gi (기) or eats the liver of livestock and humans, a key motif in the Fox Sister tale", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Illusion and seduction", "description": "Can produce illusions, conceal her tails, and bewitch men into compliance", "frequency": "common", "evidence_level": "folklore" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "nocturnal",
+      "disposition": "aggressive",
+      "social_structure": "solitary",
+      "habitat_preference": [
+        "Mountain forests near villages",
+        "Domestic households (post-infiltration)",
+        "Liminal spaces — graveyards, mountain shrines"
+      ],
+      "diet": "In the Fox Sister tale specifically: livers of livestock and humans, eaten one per night.",
+      "patterns": [
+        "Appears at moments of family longing (childlessness, death of a daughter)",
+        "Uses kinship and hospitality as the route into the household",
+        "Defeated only by ritual / Buddhist–Daoist intervention (three colored bottles, talismans)"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Korean folktale tradition (Korean peninsula and the wider Korean diaspora). The kumiho is part of the East Asian fox-spirit complex but the specific 'fox sister' motif is distinctively Korean.",
+      "continents": ["Asia"],
+      "countries": ["Republic of Korea (South Korea)", "Democratic People's Republic of Korea (North Korea)"],
+      "regions": [
+        "Korean peninsula",
+        "Korean diaspora communities"
+      ]
     },
     "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "1200-01-01",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Goryeo-era poetry of Yi Kyubo (1168–1241), earliest dateable use of the term kumiho"
+      },
+      "peak_activity_periods": [
+        { "period": "1392–1897", "description": "Joseon-period folktale circulation in oral and chapbook (pansori) form" },
+        { "period": "1979–present", "description": "Modern kumiho revival on Korean television, beginning with Han Hye-suk's portrayal on Hometown of Legends (KBS, 1979)" }
+      ]
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "The kumiho belongs to the wider East Asian fox-spirit complex, present in Chinese sources from the Han dynasty onwards. In the Korean version it absorbs strongly Buddhist and Daoist motifs (the three colored bottles, the role of the wandering monk) and a distinctive emphasis on family infiltration.",
+      "earliest_accounts": "The Samguk Sagi (1145) and Samgungnyusa (c. 1281) preserve early Korean fox-spirit references. The term kumiho (구미호) first appears in Korean literary writing in the poetry of Yi Kyubo (1168–1241).",
+      "folklore_connections": "Closely related to Chinese huli jing and Japanese kitsune; medieval Korean accounts also conflate the kumiho with mountain deities and shamanic figures."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1200-01-01", "event": "Goryeo-era poet Yi Kyubo (1168–1241) uses the term kumiho in critical poetry comparing shamans to nine-tailed foxes", "significance": "Earliest dateable Korean attestation of the term", "source": "Yi Kyubo, Donggugi-sangguk-jip" },
+      { "date": "1610-01-01", "event": "Heo Jun publishes the Donguibogam (Treasured Mirror of Eastern Medicine), which lists Byeogsadan as a treatment for illnesses caused by nine-tailed fox spirits", "significance": "Documented inclusion of kumiho-related ailments in formal Korean medicine", "source": "Heo Jun, Donguibogam (1610)" },
+      { "date": "1900-01-01", "event": "Joseon-era and early-modern folktale collections record multiple variants of 'Yeowoo Nui' (Fox Sister)", "significance": "Standardisation of the family-infiltration narrative", "source": "Various Korean folktale collections, late 19th – early 20th c." },
+      { "date": "1979-01-01", "event": "Actress Han Hye-suk first portrays a kumiho in KBS's Hometown of Legends (Jeonseol-ui Gohyang)", "significance": "Beginning of the modern televised kumiho tradition", "source": "Hometown of Legends, KBS (1979)" },
+      { "date": "2010-08-11", "event": "MBC drama My Girlfriend is a Gumiho premieres", "significance": "Major modern romantic-comedy reframing of the kumiho", "source": "MBC (2010)" },
+      { "date": "2020-10-07", "event": "tvN drama Tale of the Nine-Tailed (Gumiho-Jeon) premieres, with Lee Dong-wook in the lead role", "significance": "Major contemporary fantasy reception of the kumiho mythology", "source": "tvN (2020)" }
+    ],
+    "modern_era": "The Fox Sister motif persists primarily within the wider kumiho tradition. Contemporary Korean television, film, manhwa, and games have reframed the kumiho across genres — horror (Hometown of Legends), romance (My Girlfriend is a Gumiho), and high-fantasy (Tale of the Nine-Tailed) — while the original Fox Sister folktale remains a staple of Korean children's folklore anthologies."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
       "verified": 0,
       "disputed": 0,
-      "debunked": 0
+      "debunked": 0,
+      "date_range": { "earliest": "1200", "latest": "1900" }
     },
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "fox-sister-evidence-donguibogam",
+        "type": "medical text",
+        "name": "Donguibogam (東醫寶鑑)",
+        "date": "1610",
+        "description": "Heo Jun's compendium of Korean medicine, including a treatment formula (Byeogsadan) for ailments attributed to nine-tailed fox spirits.",
+        "status": "verified",
+        "analysis": "Demonstrates the institutional recognition of kumiho-related belief in Joseon-era Korean medicine.",
+        "source": "Heo Jun, Donguibogam (1610)"
+      },
+      {
+        "id": "fox-sister-evidence-folktale-collections",
+        "type": "folktale corpus",
+        "name": "'Yeowoo Nui' folktale corpus",
+        "description": "Multiple recorded versions of the Fox Sister tale in Korean folktale anthologies of the 19th and 20th centuries.",
+        "status": "verified",
+        "source": "Korean folktale collections; cf. summaries in Korea Foundation cultural materials"
+      }
+    ]
   },
+
   "theories": {
-    "paranormal": [],
-    "scientific": [],
+    "paranormal": [
+      {
+        "name": "Animistic / shamanic spirit",
+        "description": "Within Korean folk and shamanic tradition the kumiho is a real spirit-being with the capacity to inhabit the human world and harm households.",
+        "proponents": ["Korean shamanic (mu) tradition", "Folkloric communities"],
+        "evidence_cited": ["Inclusion in the Donguibogam medical canon", "Continuity of folktale tradition"]
+      }
+    ],
+    "scientific": [
+      {
+        "name": "Cultural-anxiety encoding",
+        "description": "Folklorists read the Fox Sister as a cultural narrative encoding anxieties about family integrity, female sexuality, and the vulnerability of the domestic sphere to external threat under Confucian patriarchal social structures.",
+        "proponents": ["Korean folkloristics", "Dafna Zur (Stanford)", "Ji-Hyun Park (UCLA)"],
+        "evidence_cited": ["Comparative analysis with Chinese and Japanese fox traditions", "Pattern of female-coded fox spirits in Joseon-era texts"]
+      }
+    ],
     "skeptical": []
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Korean kumiho tradition (구미호)",
+        "Joseon-era folktale tradition",
+        "Korean shamanic (mu) tradition"
+      ],
+      "stories": [
+        "'Yeowoo Nui' (Fox Sister) folktale — family infiltration and three colored bottles",
+        "'Yi Yeong-bok and the Kumiho' chapbook tales",
+        "'The Hunter and the Kumiho'",
+        "Jeon Woo-chi tales (17th-c. Joseon novel) — fox-marble and seduction motifs"
+      ],
+      "beliefs": "Within Korean folk belief the kumiho is consistently depicted as malevolent, in marked contrast to the more ambiguous Chinese huli jing and the often benevolent Japanese kitsune. The 'fox sister' subtype emphasises the specific danger of strangers introduced into the household under the guise of kinship."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
+      "literature": [
+        "'Yeowoo Nui' (Fox Sister) — multiple Korean folktale anthologies",
+        "Donguibogam — Heo Jun (1610)",
+        "Jeon Woo-chi Jeon (전우치전) — anonymous, Joseon-era novel"
+      ],
+      "film_tv": [
+        "Hometown of Legends (전설의 고향, KBS, 1977–1989; 2008–2009)",
+        "The Fox with Nine Tails (구미호, 1994)",
+        "My Girlfriend is a Gumiho (내 여자친구는 구미호, MBC, 2010)",
+        "Gu Family Book (구가의 서, MBC, 2013)",
+        "Tale of the Nine-Tailed (구미호뎐, tvN, 2020)",
+        "Tale of the Nine-Tailed 1938 (tvN, 2023)"
+      ],
+      "games": [
+        "Smite — Da Ji and similar fox-spirit characters draw on the East Asian tradition",
+        "League of Legends — Ahri (kumiho-inspired champion, 2011)",
+        "Tales of Symphonia and other JRPG fox-spirit references"
+      ],
+      "music": [
+        "Various K-pop and OST tracks tied to the 2020 Tale of the Nine-Tailed series"
+      ],
+      "other": [
+        "Saero soju branding featuring kumiho imagery (2022)"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "Heo Jun", "affiliation": "Royal Physician, Joseon Korea", "contribution": "Donguibogam (1610), institutional documentation of kumiho-related ailments", "period": "16th–17th c." },
+      { "name": "Dafna Zur", "affiliation": "Stanford University (Korean literature)", "contribution": "Scholarship on Korean folklore and children's literature including kumiho material", "period": "2000s–present" },
+      { "name": "Korea Foundation", "affiliation": "Korea Foundation cultural research", "contribution": "Curation and translation of Korean folklore including the Fox Sister tale", "period": "1990s–present" }
+    ],
+    "organizations": [
+      { "name": "National Folk Museum of Korea", "url": "https://www.nfm.go.kr/english/index.do", "focus": "Curation of Korean folk traditions, including kumiho and 'Yeowoo Nui'" },
+      { "name": "Academy of Korean Studies", "url": "https://www.aks.ac.kr/", "focus": "Academic research on Korean folklore and literature" }
+    ],
+    "ongoing_studies": "Active areas include comparative East-Asian fox-spirit folkloristics, gender-studies analysis of the kumiho figure, and reception-history studies of the post-1979 televised kumiho tradition."
   },
-  "sources": []
+
+  "sources": [
+    { "id": "heo-jun-1610", "type": "book", "title": "Donguibogam (Treasured Mirror of Eastern Medicine)", "authors": ["Heo Jun"], "publication": "Joseon Royal Court", "date": "1610" },
+    { "id": "wikipedia-kumiho", "type": "website", "title": "Kumiho", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Kumiho", "accessed": "2026-05-07" },
+    { "id": "kbs-hometown-of-legends", "type": "documentary", "title": "Hometown of Legends (전설의 고향)", "publication": "Korean Broadcasting System (KBS)", "date": "1977-1989" },
+    { "id": "samgungnyusa", "type": "book", "title": "Samgungnyusa (三國遺事)", "authors": ["Iryeon"], "publication": "Goryeo Korea (compiled c. 1281)", "date": "1281" },
+    { "id": "national-folk-museum-korea", "type": "website", "title": "National Folk Museum of Korea", "url": "https://www.nfm.go.kr/english/index.do", "accessed": "2026-05-07" }
+  ]
 }
